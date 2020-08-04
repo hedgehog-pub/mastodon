@@ -9,11 +9,15 @@ module Mastodon
     end
 
     def minor
-      1
+      2
     end
 
     def patch
+<<<<<<< HEAD
       5
+=======
+      0
+>>>>>>> v3.2.0
     end
 
     def flags
